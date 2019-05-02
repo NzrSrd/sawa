@@ -6,6 +6,7 @@ This project was created with [ React App](https://github.com/facebook/create-re
 ### Technologies:
     ReactJS, Redux for the frontend.
     NodeJS and Express for the backend.
+    Server MonogoDB.
 
 ### Clone Project:
 ```

@@ -3,6 +3,10 @@
 # SAWA PROJECT
 This project was created with [ React App](https://github.com/facebook/create-react-app)
 
+### Technologies:
+    ReactJS, Redux for the frontend.
+    NodeJS and Express for the backend.
+
 ### Clone Project:
 ```
     git clone "https://github.com/fahd-93/sawa.git"
